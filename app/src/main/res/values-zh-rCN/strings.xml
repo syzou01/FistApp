@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="birth">祝你生日快乐！</string>
+    <string name="yours">爱你的，</string>
+    <string name="name">汤姆</string>
+    <string name="btn">你好</string>
+    <string name="hint">请输入摄氏度</string>
+    <string name="convert">转化为华氏度</string>
+    <string name="result">结果是：</string>
+    <string name="tempName">温度转换程序</string>
+</resources>

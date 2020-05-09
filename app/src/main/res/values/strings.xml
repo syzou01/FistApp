@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FistAppNew</string>
+    <string name="keyWordEnter">学院官网通知公告查询</string>
+    <string name="keyWordHint">请输入待搜索的关键词</string>
+    <string name="keyWord"> </string>
+    <string name="ok">确定</string>
+</resources>
